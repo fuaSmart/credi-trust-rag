@@ -21,6 +21,13 @@ nbformat==5.10.2
 openpyxl==3.1.2
 xlrd==2.0.1
 
+# RAG specific libraries
+langchain==0.1.13 
+sentence-transformers==2.7.0 
+chromadb==0.4.24 
+faiss-cpu==1.8.0 
+transformers==4.38.1 
+
 # Dev tools
 pytest==8.0.0
 black==24.3.0
